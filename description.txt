@@ -6,3 +6,5 @@ Galaxy旨在为泰拉瑞亚添加一整套的太空科学与探索系统
 部分灵感来源于Minecraft的GalactiCraft（星系）Mod与其他的一些工业相关Mod
 
 祝您游玩愉快！
+
+开源：https://github.com/mA-liN233/Galaxy
