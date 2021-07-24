@@ -1,0 +1,6 @@
+# Galaxy
+为泰拉瑞亚开发的一个星际探险/工业向的mod
+
+Galaxy旨在为泰拉瑞亚添加一整套的太空科学与探索系统
+
+部分灵感来源于Minecraft的GalactiCraft（星系）Mod与其他的一些工业相关Mod
